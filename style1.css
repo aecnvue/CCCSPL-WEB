@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+    /*font-family: 'Courier New', Courier, monospace;*/
+}
+p{
+    /*font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(.);
+    background-repeat: no-repeat*/
+}
+li{
+    list-style: none;
+}
+nav>img{
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+/*body{
+    background:linear-gradient(#daddfb);
+    background-image: url("image");
+    background: linear-gradient(#f5f7fa,#daddfb);
+    background-repeat: no-repeat;
+}*/
+nav>span>#cok{
+  width: 95px;
+  height: 60px;
+  object-fit: cover;
+}
+nav>ul>li>#com{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+nav>ul>li{
+    font-size: 20px;
+}
+#laut-logo{
+    width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.set-in{
+    display: flex;
+    align-items: center;
+}
+#work-set{
+    justify-content: center;
+}
+#com{
+    width: 60%;
+    height: 60%;
+}
+nav>#gdg{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    align-items: center;
+    background-color: white;
+    padding: 25px 35px;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    flex-direction: row;
+    position: static;
+    top: 0;
+    gap: 20px;
+}
+#mid-set-in{
+    height: 330px;
+    background-color: lightblue;
+    top: 0;
+}
+#mid-set-in>img{
+    width: 300px;
+    margin: auto;
+    display: block;
+}
+#mid-set-in>h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#mid-set-in>#pnc-in{
+    margin-top: 10px;
+}
+#get-it{
+    color: blue;
+}
+#mid-set-in>p{
+    text-align: center;
+}
+#content{
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px;
+}
+#content>h2{
+    text-align: center;
+}
+#content>p{
+    padding-top: 10px;
+    margin: 0px auto;
+    width: 60%;
+    text-align: center;
+}
+#reset>.set-up{
+    text-align: center;
+    margin-top: 10px;
+}
+#reset{
+    padding: 30px;
+    background-repeat: no-repeat;
+}
+#reset>h3{
+    text-align: center;
+}
+
+#reset>ul{
+    margin-top: 10px;
+}
+#reset>#back-up{
+    margin-top: 20px;
+    text-align: center;
+}
+#reset>img{
+    width: 30%;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+}
+#first-set>h3{
+    text-align: center;
+    margin-top: 20px;
+}
+#first-set>#mon-mid{
+    text-align: center;
+}
+#first-set>h4{
+    margin-top: 10px;
+}
+#ano-get{
+    padding-top: 20px;
+}
+#ano-get>h3{
+    text-align: center;
+}
+#in-body{
+    height: 300px;
+    padding-top: 20px;
+    
+
+}
